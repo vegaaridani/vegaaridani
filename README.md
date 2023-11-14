@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-Welcome to my profile! 🔭 I’m currently working as a Frontend Developer.
+Welcome to my profile! 5 years of journey as a Web Developer and 🔭 I’m currently working as a Frontend Developer.
 
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/vega-aridani) 
