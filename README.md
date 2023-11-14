@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi everyone 👋
 
+Welcome to my profile! 🔭 I’m currently working as a Frontend Developer.
+
+### 📫 How to reach me?
+- [LinkedIn](https://www.linkedin.com/in/vega-aridani) 
+- My personal blog and portfolio - [Vega Codes](https://vegaaridani.vercel.app/)
+  
 <!--
 **vegaaridani/vegaaridani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
