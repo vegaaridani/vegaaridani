@@ -5,6 +5,8 @@ Welcome to my profile! 5 years of journey as a Web Developer and 🔭 I’m curr
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/vega-aridani) 
 - My personal blog and portfolio - [Vega Codes](https://vegaaridani.vercel.app/)
+
+<img src="http://views.whatilearened.today/views/github/vegaaridani/views.svg"/>
   
 <!--
 **vegaaridani/vegaaridani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
