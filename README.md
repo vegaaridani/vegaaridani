@@ -3,7 +3,7 @@
 Welcome to my profile! a journey as a Web Developer and 🔭 I’m currently working as a Frontend Developer.
 
 ### 📫 How to reach me?
-- My personal blog and portfolio - [Vega Codes](https://vegaaridani.vercel.app/)
+- My personal blog and portfolio - [here!](https://vegaaridani.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/vega-aridani) 
 
 <img src="http://views.whatilearened.today/views/github/vegaaridani/views.svg"/>
